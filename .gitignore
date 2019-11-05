@@ -14,7 +14,6 @@ core
 .metadata
 log
 device_tree_bsp_0
-*.xpr
 *.log
 *.jou
 
