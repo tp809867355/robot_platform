@@ -1,0 +1,6 @@
+the_ROM_image:
+{
+	[bootloader]/home/adt/robot_ros/git/vivado_project/all/X_Ubuntu.sdk/fsbl.elf
+	/home/adt/robot_ros/git/vivado_project/all/X_Ubuntu.sdk/ps_pl_hdmi_wrapper_hw_platform_1/ps_pl_hdmi_wrapper.bit
+	/home/adt/robot_ros/git/vivado_project/all/X_Ubuntu.sdk/u-boot.elf
+}
